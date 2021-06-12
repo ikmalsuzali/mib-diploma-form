@@ -10,18 +10,14 @@
             <template v-slot:default>
               <thead>
                 <tr>
-                  <th class="text-left">2021</th>
-                  <th class="text-left">Calories</th>
+                  <th class="text-left">Date</th>
+                  <th class="text-left">Payment</th>
                 </tr>
               </thead>
               <tbody>
-                <tr v-for="(item, index) in tableItems" :key="index">
+                <tr v-for="(item, index) in arrByConditions" :key="index">
                   <td>{{ item.month }}</td>
-                  <td>{{ item.cost }}</td>
-                </tr>
-                <tr>
-                  <td>Aug</td>
-                  <td>RM 1293</td>
+                  <td>{{ item.cost ? 'RM ' + item.cost : '' }}</td>
                 </tr>
               </tbody>
             </template>
@@ -57,18 +53,18 @@
             </div>
             <v-checkbox
               v-model="optionsSelected"
-              label="Flexi Payment Plant"
-              value="fpp"
+              label="Flexi Payment Plan"
+              value="flexi"
             />
             <v-checkbox
               v-model="optionsSelected"
               label="Don Yong Scholarship"
-              value="dys"
+              value="scholarship"
             />
             <v-checkbox
               v-model="optionsSelected"
               label="Full Payment (5% Discount)"
-              value="fpd"
+              value="full"
             />
             <v-checkbox v-model="optionsSelected" label="EPF" value="epf" />
           </div>
@@ -79,11 +75,137 @@
 </template>
 
 <script>
+import csvData from '../csvData/csvData.json'
+
 export default {
+  computed: {
+    arrByConditions() {
+      const os = this.optionsSelected
+
+      if (os.length === 0) return csvData.self_funding_semester || []
+
+      // PTPTN
+      if (os.length == 1 && os.includes('ptptn')) {
+        // INCOME LEVEL 1
+        if (this.incomeLvlSelected === 0) return csvData.ptptnMax || []
+        // INCOME LEVEL 2
+        if (this.incomeLvlSelected === 1) return csvData.ptptn75 || []
+        // INCOME LEVEL 3
+        if (this.incomeLvlSelected === 2) return csvData.ptptn50 || []
+      }
+
+      // flexi
+      if (os.length === 1 && os.includes('flexi'))
+        return csvData.self_funding_flexi || []
+
+      // flexi & PTPTN & INCOME LEVEL 1
+      if (
+        os.length === 2 &&
+        os.includes('flexi') &&
+        os.includes('ptptn') &&
+        this.incomeLvlSelected === 0
+      )
+        return csvData.flexi_ptptnMax || []
+
+      // flexi & PTPTN & INCOME LEVEL 2
+      if (
+        os.length === 2 &&
+        os.includes('flexi') &&
+        os.includes('ptptn') &&
+        this.incomeLvlSelected === 1
+      )
+        return csvData.flexi_ptptn75 || []
+
+      // flexi & PTPTN & INCOME LEVEL 3
+      if (
+        os.length === 2 &&
+        os.includes('flexi') &&
+        os.includes('ptptn') &&
+        this.incomeLvlSelected === 2
+      )
+        return csvData.flexi_ptptn50 || []
+
+      // scholarship
+      if (os.length === 1 && os.includes('scholarship'))
+        return csvData.scholarship_semester || []
+
+      // scholarship & flexi
+      if (os.length === 2 && os.includes('scholarship') && os.includes('flexi'))
+        return csvData.scholarship_flexi || []
+
+      // scholarship & PTPTN & INCOME LEVEL 1
+      if (
+        os.length === 2 &&
+        os.includes('scholarship') &&
+        os.includes('ptptn') &&
+        this.incomeLvlSelected === 0
+      )
+        return csvData.scholarship_ptptnMax_semester || []
+
+      // scholarship & PTPTN & INCOME LEVEL 2
+      if (
+        os.length === 2 &&
+        os.includes('scholarship') &&
+        os.includes('ptptn') &&
+        this.incomeLvlSelected === 1
+      )
+        return csvData.scholarship_ptptn75_semester || []
+
+      // scholarship & PTPTN & INCOME LEVEL 3
+      if (
+        os.length === 2 &&
+        os.includes('scholarship') &&
+        os.includes('ptptn') &&
+        this.incomeLvlSelected === 2
+      )
+        return csvData.scholarship_ptptn50_semester || []
+
+      // scholarship & PTPTN & INCOME LEVEL 1 & flexi
+      if (
+        os.length === 3 &&
+        os.includes('scholarship') &&
+        os.includes('ptptn') &&
+        os.includes('flexi') &&
+        this.incomeLvlSelected === 0
+      )
+        return csvData.scholarship_ptptnMax_flexi || []
+
+      // scholarship & PTPTN & INCOME LEVEL 3 & flexi
+      if (
+        os.length === 3 &&
+        os.includes('scholarship') &&
+        os.includes('ptptn') &&
+        os.includes('flexi') &&
+        this.incomeLvlSelected === 1
+      )
+        return csvData.scholarship_ptptn75_flexi || []
+
+      // scholarship & PTPTN & INCOME LEVEL 3 & flexi
+      if (
+        os.length === 3 &&
+        os.includes('scholarship') &&
+        os.includes('ptptn') &&
+        os.includes('flexi') &&
+        this.incomeLvlSelected === 2
+      )
+        return csvData.scholarship_ptptn50_flexi || []
+
+      // FULL PAYMENT
+      if (os.length === 1 && os.includes('full'))
+        return csvData.self_funding_full || []
+
+      // FULL PAYMENT & scholarship
+      if (os.length === 2 && os.includes('full') && os.includes('scholarship'))
+        return csvData.scholarship_full || []
+
+      return []
+    },
+  },
   data() {
     return {
       optionsSelected: [],
-      incomeLvlSelected: null,
+      incomeLvlSelected: 0,
+      csvData: csvData,
       tableItems: [
         { month: 'Aug', cost: 9812 },
         { month: 'Sept', cost: 9812 },

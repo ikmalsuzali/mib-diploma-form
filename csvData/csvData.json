@@ -1,0 +1,2198 @@
+{
+ "self_funding_full": [
+  {
+   "month": "Jul-21",
+   "cost": "38077"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": ""
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": ""
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": ""
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": ""
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": ""
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": ""
+  },
+  {
+   "month": "Total",
+   "cost": "38077"
+  }
+ ],
+ "self_funding_semester": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "6333"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "6333"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "6333"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "6333"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "6333"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "39977"
+  }
+ ],
+ "self_funding_flexi": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "1386"
+  },
+  {
+   "month": "Dec-21",
+   "cost": "1386"
+  },
+  {
+   "month": "Jan-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Feb-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Mar-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Apr-22",
+   "cost": "1386"
+  },
+  {
+   "month": "May-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Jun-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Jul-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Aug-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Sep-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Oct-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Nov-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Dec-22",
+   "cost": "1386"
+  },
+  {
+   "month": "Jan-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Feb-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Mar-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Apr-23",
+   "cost": "1386"
+  },
+  {
+   "month": "May-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Jun-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Jul-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Aug-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Sep-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Oct-23",
+   "cost": "1386"
+  },
+  {
+   "month": "Nov-23",
+   "cost": ""
+  },
+  {
+   "month": "Total",
+   "cost": "41576"
+  }
+ ],
+ "ptptnMax": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "2061"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "2061"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "2061"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "2061"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "2061"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "18617"
+  }
+ ],
+ "ptptn75": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "3609.6"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "3609.6"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "3609.6"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "3609.6"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "3609.6"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "26360"
+  }
+ ],
+ "ptptn50": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "4517.4"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "4517.4"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "4517.4"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "4517.4"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "4517.4"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "30899"
+  }
+ ],
+ "flexi_ptptnMax": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": "451"
+  },
+  {
+   "month": "Oct-21",
+   "cost": "451"
+  },
+  {
+   "month": "Nov-21",
+   "cost": "451"
+  },
+  {
+   "month": "Dec-21",
+   "cost": "451"
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": "451"
+  },
+  {
+   "month": "Mar-22",
+   "cost": "451"
+  },
+  {
+   "month": "Apr-22",
+   "cost": "451"
+  },
+  {
+   "month": "May-22",
+   "cost": "451"
+  },
+  {
+   "month": "Jun-22",
+   "cost": "451"
+  },
+  {
+   "month": "Jul-22",
+   "cost": "451"
+  },
+  {
+   "month": "Aug-22",
+   "cost": "451"
+  },
+  {
+   "month": "Sep-22",
+   "cost": "451"
+  },
+  {
+   "month": "Oct-22",
+   "cost": "451"
+  },
+  {
+   "month": "Nov-22",
+   "cost": "451"
+  },
+  {
+   "month": "Dec-22",
+   "cost": "451"
+  },
+  {
+   "month": "Jan-23",
+   "cost": "451"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": "451"
+  },
+  {
+   "month": "Apr-23",
+   "cost": "451"
+  },
+  {
+   "month": "May-23",
+   "cost": "451"
+  },
+  {
+   "month": "Jun-23",
+   "cost": "451"
+  },
+  {
+   "month": "Jul-23",
+   "cost": "451"
+  },
+  {
+   "month": "Aug-23",
+   "cost": "451"
+  },
+  {
+   "month": "Sep-23",
+   "cost": "451"
+  },
+  {
+   "month": "Oct-23",
+   "cost": "451"
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "19136"
+  }
+ ],
+ "flexi_ptptn75": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": "790"
+  },
+  {
+   "month": "Oct-21",
+   "cost": "790"
+  },
+  {
+   "month": "Nov-21",
+   "cost": "790"
+  },
+  {
+   "month": "Dec-21",
+   "cost": "790"
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": "790"
+  },
+  {
+   "month": "Mar-22",
+   "cost": "790"
+  },
+  {
+   "month": "Apr-22",
+   "cost": "790"
+  },
+  {
+   "month": "May-22",
+   "cost": "790"
+  },
+  {
+   "month": "Jun-22",
+   "cost": "790"
+  },
+  {
+   "month": "Jul-22",
+   "cost": "790"
+  },
+  {
+   "month": "Aug-22",
+   "cost": "790"
+  },
+  {
+   "month": "Sep-22",
+   "cost": "790"
+  },
+  {
+   "month": "Oct-22",
+   "cost": "790"
+  },
+  {
+   "month": "Nov-22",
+   "cost": "790"
+  },
+  {
+   "month": "Dec-22",
+   "cost": "790"
+  },
+  {
+   "month": "Jan-23",
+   "cost": "790"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": "790"
+  },
+  {
+   "month": "Apr-23",
+   "cost": "790"
+  },
+  {
+   "month": "May-23",
+   "cost": "790"
+  },
+  {
+   "month": "Jun-23",
+   "cost": "790"
+  },
+  {
+   "month": "Jul-23",
+   "cost": "790"
+  },
+  {
+   "month": "Aug-23",
+   "cost": "790"
+  },
+  {
+   "month": "Sep-23",
+   "cost": "790"
+  },
+  {
+   "month": "Oct-23",
+   "cost": "790"
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "27272"
+  }
+ ],
+ "flexi_ptptn50": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": "989"
+  },
+  {
+   "month": "Oct-21",
+   "cost": "989"
+  },
+  {
+   "month": "Nov-21",
+   "cost": "989"
+  },
+  {
+   "month": "Dec-21",
+   "cost": "989"
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": "989"
+  },
+  {
+   "month": "Mar-22",
+   "cost": "989"
+  },
+  {
+   "month": "Apr-22",
+   "cost": "989"
+  },
+  {
+   "month": "May-22",
+   "cost": "989"
+  },
+  {
+   "month": "Jun-22",
+   "cost": "989"
+  },
+  {
+   "month": "Jul-22",
+   "cost": "989"
+  },
+  {
+   "month": "Aug-22",
+   "cost": "989"
+  },
+  {
+   "month": "Sep-22",
+   "cost": "989"
+  },
+  {
+   "month": "Oct-22",
+   "cost": "989"
+  },
+  {
+   "month": "Nov-22",
+   "cost": "989"
+  },
+  {
+   "month": "Dec-22",
+   "cost": "989"
+  },
+  {
+   "month": "Jan-23",
+   "cost": "989"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": "989"
+  },
+  {
+   "month": "Apr-23",
+   "cost": "989"
+  },
+  {
+   "month": "May-23",
+   "cost": "989"
+  },
+  {
+   "month": "Jun-23",
+   "cost": "989"
+  },
+  {
+   "month": "Jul-23",
+   "cost": "989"
+  },
+  {
+   "month": "Aug-23",
+   "cost": "989"
+  },
+  {
+   "month": "Sep-23",
+   "cost": "989"
+  },
+  {
+   "month": "Oct-23",
+   "cost": "989"
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "32048"
+  }
+ ],
+ "scholarship_full": [
+  {
+   "month": "Jul-21",
+   "cost": "30857"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": ""
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": ""
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": ""
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": ""
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": ""
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "30857"
+  }
+ ],
+ "scholarship_semester": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "4813"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "4813"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "4813"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "4813"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "4813"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "32377"
+  }
+ ],
+ "scholarship_flexi": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "5069"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "5069"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "5069"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "5069"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "5069"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "33657"
+  }
+ ],
+ "scholarship_ptptnMax_semester": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "541"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "541"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "541"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "541"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "541"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "11017"
+  }
+ ],
+ "scholarship_ptptn75_semester": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "2089.6"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "2089.6"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "2089.6"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "2089.6"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "2089.6"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "18760"
+  }
+ ],
+ "scholarship_ptptn50_semester": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": ""
+  },
+  {
+   "month": "Oct-21",
+   "cost": ""
+  },
+  {
+   "month": "Nov-21",
+   "cost": "2997.4"
+  },
+  {
+   "month": "Dec-21",
+   "cost": ""
+  },
+  {
+   "month": "Jan-22",
+   "cost": ""
+  },
+  {
+   "month": "Feb-22",
+   "cost": ""
+  },
+  {
+   "month": "Mar-22",
+   "cost": ""
+  },
+  {
+   "month": "Apr-22",
+   "cost": "2997.4"
+  },
+  {
+   "month": "May-22",
+   "cost": ""
+  },
+  {
+   "month": "Jun-22",
+   "cost": ""
+  },
+  {
+   "month": "Jul-22",
+   "cost": ""
+  },
+  {
+   "month": "Aug-22",
+   "cost": "2997.4"
+  },
+  {
+   "month": "Sep-22",
+   "cost": ""
+  },
+  {
+   "month": "Oct-22",
+   "cost": ""
+  },
+  {
+   "month": "Nov-22",
+   "cost": ""
+  },
+  {
+   "month": "Dec-22",
+   "cost": ""
+  },
+  {
+   "month": "Jan-23",
+   "cost": "2997.4"
+  },
+  {
+   "month": "Feb-23",
+   "cost": ""
+  },
+  {
+   "month": "Mar-23",
+   "cost": ""
+  },
+  {
+   "month": "Apr-23",
+   "cost": ""
+  },
+  {
+   "month": "May-23",
+   "cost": ""
+  },
+  {
+   "month": "Jun-23",
+   "cost": "2997.4"
+  },
+  {
+   "month": "Jul-23",
+   "cost": ""
+  },
+  {
+   "month": "Aug-23",
+   "cost": ""
+  },
+  {
+   "month": "Sep-23",
+   "cost": ""
+  },
+  {
+   "month": "Oct-23",
+   "cost": ""
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "23299"
+  }
+ ],
+ "scholarship_ptptnMax_flexi": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": "112.7"
+  },
+  {
+   "month": "Oct-21",
+   "cost": "112.7"
+  },
+  {
+   "month": "Nov-21",
+   "cost": "112.7"
+  },
+  {
+   "month": "Dec-21",
+   "cost": "112.7"
+  },
+  {
+   "month": "Jan-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Feb-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Mar-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Apr-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "May-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Jun-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Jul-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Aug-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Sep-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Oct-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Nov-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Dec-22",
+   "cost": "112.7"
+  },
+  {
+   "month": "Jan-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Feb-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Mar-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Apr-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "May-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Jun-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Jul-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Aug-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Sep-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Oct-23",
+   "cost": "112.7"
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "11242"
+  }
+ ],
+ "scholarship_ptptn75_flexi": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": "435.3"
+  },
+  {
+   "month": "Oct-21",
+   "cost": "435.3"
+  },
+  {
+   "month": "Nov-21",
+   "cost": "435.3"
+  },
+  {
+   "month": "Dec-21",
+   "cost": "435.3"
+  },
+  {
+   "month": "Jan-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Feb-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Mar-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Apr-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "May-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Jun-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Jul-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Aug-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Sep-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Oct-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Nov-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Dec-22",
+   "cost": "435.3"
+  },
+  {
+   "month": "Jan-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Feb-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Mar-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Apr-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "May-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Jun-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Jul-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Aug-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Sep-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Oct-23",
+   "cost": "435.3"
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "19630"
+  }
+ ],
+ "scholarship_ptptn50_flexi": [
+  {
+   "month": "Jul-21",
+   "cost": "8312"
+  },
+  {
+   "month": "Aug-21",
+   "cost": ""
+  },
+  {
+   "month": "Sep-21",
+   "cost": "624.5"
+  },
+  {
+   "month": "Oct-21",
+   "cost": "624.5"
+  },
+  {
+   "month": "Nov-21",
+   "cost": "624.5"
+  },
+  {
+   "month": "Dec-21",
+   "cost": "624.5"
+  },
+  {
+   "month": "Jan-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Feb-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Mar-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Apr-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "May-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Jun-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Jul-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Aug-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Sep-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Oct-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Nov-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Dec-22",
+   "cost": "624.5"
+  },
+  {
+   "month": "Jan-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Feb-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Mar-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Apr-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "May-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Jun-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Jul-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Aug-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Sep-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Oct-23",
+   "cost": "624.5"
+  },
+  {
+   "month": "Nov-23",
+   "cost": "Internship"
+  },
+  {
+   "month": "Total",
+   "cost": "24549"
+  }
+ ]
+}
