@@ -6,11 +6,12 @@ fs.createReadStream('csv/form.csv')
   .pipe(csv())
   .on('data', (data) => results.push(data))
   .on('end', () => {
-    console.log(results)
-
     results.forEach((item) => {
-      if (item.loan_type) {
-        fs.writeFileSync(`/csvData/${item.loan_type}.png`, 'test')
+      let typeKey = Object.keys(item)[0]
+      let typeValue = Object[typeKey]
+
+      if (typeKey) {
+        fs.writeFileSync(`${typeValue}.png`, 'test')
       }
     })
   })
