@@ -72,6 +72,10 @@
                   Income Level 3: (50% of Full Loan) Income RM8,001 and Above
                 </div>
               </v-card-text>
+              <v-card-text>
+                <div class="font-weight-bold">More info on PTPTN Website</div>
+                <a :href="ptptnUrl">{{ ptptnUrl }}</a>
+              </v-card-text>
             </div>
             <v-checkbox
               v-model="optionsSelected"
@@ -89,6 +93,16 @@
               value="full"
             />
             <v-checkbox v-model="optionsSelected" label="EPF" value="epf" />
+            <div v-if="optionsSelected.includes('epf')">
+              <v-card-text>
+                <div>
+                  You can withdraw from yourr EPF Second Account to pay for you
+                  child's fees.
+                </div>
+                <div class="font-weight-bold">More info on EPF Website</div>
+                <a v-bind="epfUrl">​{{ epfUrl }}</a>
+              </v-card-text>
+            </div>
           </div>
         </v-card>
       </v-col>
@@ -100,6 +114,26 @@
 import csvData from '../csvData/csvData.json'
 
 export default {
+  data() {
+    return {
+      optionsSelected: [],
+      incomeLvlSelected: 0,
+      csvData: csvData,
+      tableItems: [
+        { month: 'Aug', cost: 9812 },
+        { month: 'Sept', cost: 9812 },
+        { month: 'Oct', cost: 9812 },
+        { month: 'Nov', cost: 9812 },
+        { month: 'Dec', cost: 9812 },
+        { month: 'Jan', cost: 9812 },
+        { month: 'Feb', cost: 9812 },
+        { month: 'Mar', cost: 9812 },
+        { month: 'Apr', cost: 9812 },
+      ],
+      epfUrl: 'https://www.kwsp.gov.my/member/widthrawals/partial/education',
+      ptptnUrl: 'https://www.ptptn.gov.my/msk/MaklumatKursus/C8463/1/2/3/0/0',
+    }
+  },
   computed: {
     arrByConditions() {
       const os = this.optionsSelected
@@ -222,24 +256,6 @@ export default {
 
       return []
     },
-  },
-  data() {
-    return {
-      optionsSelected: [],
-      incomeLvlSelected: 0,
-      csvData: csvData,
-      tableItems: [
-        { month: 'Aug', cost: 9812 },
-        { month: 'Sept', cost: 9812 },
-        { month: 'Oct', cost: 9812 },
-        { month: 'Nov', cost: 9812 },
-        { month: 'Dec', cost: 9812 },
-        { month: 'Jan', cost: 9812 },
-        { month: 'Feb', cost: 9812 },
-        { month: 'Mar', cost: 9812 },
-        { month: 'Apr', cost: 9812 },
-      ],
-    }
   },
 }
 </script>
