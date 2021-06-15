@@ -2,7 +2,18 @@
   <div>
     <h2>MIB College</h2>
     <v-row>
-      <v-col cols="6" sm="12" md="6" class="mt-5">
+      <v-col
+        cols="12"
+        xs="12"
+        sm="12"
+        md="12"
+        lg="6"
+        order="last"
+        order-sm="last"
+        order-md="last"
+        order-lg="first"
+        class="mt-5"
+      >
         <v-card>
           <v-card-title>Payment Schedule</v-card-title>
           <v-card-text>Please select payment option(s)</v-card-text>
@@ -24,7 +35,18 @@
           </v-simple-table>
         </v-card>
       </v-col>
-      <v-col cols="6" sm="12" md="6" class="mt-5">
+      <v-col
+        cols="12"
+        xs="12"
+        sm="12"
+        md="12"
+        lg="6"
+        order="first"
+        order-sm="first"
+        order-md="first"
+        order-lg="last"
+        class="mt-5"
+      >
         <v-card>
           <v-card-title>Payment Options with Financial Aid (BST)</v-card-title>
           <div class="px-5">
