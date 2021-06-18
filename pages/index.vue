@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Diploma in Baking Science & Technology</h2>
+    <h2>Diploma in Baking Science & Technology (BST)</h2>
     <v-row>
       <v-col
         cols="12"
@@ -28,7 +28,7 @@
               <tbody>
                 <tr v-for="(item, index) in arrByConditions" :key="index">
                   <td>{{ item.month }}</td>
-                  <td>{{ item.cost ? 'RM ' + item.cost : '' }}</td>
+                  <td>{{ itemCostString(item.cost) }}</td>
                 </tr>
               </tbody>
             </template>
@@ -91,7 +91,7 @@
               </v-card-text>
               <v-card-text>
                 <div class="font-weight-bold">More info on PTPTN Website</div>
-                <a :href="ptptnUrl">{{ ptptnUrl }}</a>
+                <a target="_blank" :href="ptptnUrl">{{ ptptnUrl }}</a>
               </v-card-text>
             </div>
             <v-checkbox
@@ -110,7 +110,9 @@
                   Application requirement: Minimum of 3A’s in SPM/IGCSE Apply
                   here!
                 </div>
-                <a :href="donYongScholarshipUrl">{{ donYongScholarshipUrl }}</a>
+                <a target="_blank" :href="donYongScholarshipUrl">{{
+                  donYongScholarshipUrl
+                }}</a>
               </v-card-text>
             </div>
             <v-checkbox
@@ -128,7 +130,7 @@
                   child’s fees. We will assist you in the application process.
                 </div>
                 <div class="font-weight-bold">More info on EPF Website</div>
-                <a v-bind="epfUrl">​{{ epfUrl }}</a>
+                <a target="_blank" v-bind="epfUrl">​{{ epfUrl }}</a>
               </v-card-text>
             </div>
           </div>
@@ -284,6 +286,16 @@ export default {
         return csvData.scholarship_full || []
 
       return []
+    },
+  },
+  methods: {
+    itemCostString(cost) {
+      if (!cost) return ''
+      if (!isNaN(cost)) {
+        return 'RM ' + cost
+      } else {
+        return cost
+      }
     },
   },
 }
