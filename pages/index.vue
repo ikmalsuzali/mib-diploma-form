@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>MIB College</h2>
+    <h2>Diploma in Baking Science & Technology</h2>
     <v-row>
       <v-col
         cols="12"
@@ -48,10 +48,27 @@
         class="mt-5"
       >
         <v-card>
-          <v-card-title>Payment Options with Financial Aid (BST)</v-card-title>
+          <v-card-title class="pb-0"
+            >Payment Options with Financial Assistance</v-card-title
+          >
+          <v-card-text class="pb-0"
+            ><div>
+              Select the Financial Assistance options available to find out your
+              Payment Schedule!
+            </div>
+            <div>
+              *the amount shown is an estimation, and may vary slightly.
+            </div>
+          </v-card-text>
           <div class="px-5">
             <v-checkbox v-model="optionsSelected" label="PTPTN" value="ptptn" />
+
             <div v-if="optionsSelected.includes('ptptn')">
+              <v-card-text class="pa-0">
+                The amount of loan approved is subject to PTPTN. Household
+                income is the main factor to determine how much PTPTN loan you
+                are entitled to. Please select your household income below!
+              </v-card-text>
               <v-chip-group
                 v-model="incomeLvlSelected"
                 active-class="green accent-4 white--text"
@@ -87,6 +104,15 @@
               label="Don Yong Scholarship"
               value="scholarship"
             />
+            <div v-if="optionsSelected.includes('scholarship')">
+              <v-card-text class="py-0">
+                <div>
+                  Application requirement: Minimum of 3A’s in SPM/IGCSE Apply
+                  here!
+                </div>
+                <a :href="donYongScholarshipUrl">{{ donYongScholarshipUrl }}</a>
+              </v-card-text>
+            </div>
             <v-checkbox
               v-model="optionsSelected"
               label="Full Payment (5% Discount)"
@@ -95,9 +121,11 @@
             <v-checkbox v-model="optionsSelected" label="EPF" value="epf" />
             <div v-if="optionsSelected.includes('epf')">
               <v-card-text>
-                <div>
-                  You can withdraw from yourr EPF Second Account to pay for you
-                  child's fees.
+                <div
+                  style="text-decoration: underline; text-decoration-color: red"
+                >
+                  Parents may withdraw from EPF Account 2 to pay for your
+                  child’s fees. We will assist you in the application process.
                 </div>
                 <div class="font-weight-bold">More info on EPF Website</div>
                 <a v-bind="epfUrl">​{{ epfUrl }}</a>
@@ -132,6 +160,7 @@ export default {
       ],
       epfUrl: 'https://www.kwsp.gov.my/member/widthrawals/partial/education',
       ptptnUrl: 'https://www.ptptn.gov.my/msk/MaklumatKursus/C8463/1/2/3/0/0',
+      donYongScholarshipUrl: 'https://forms.gle/DDBa3EvePRLo2Ue66',
     }
   },
   computed: {
