@@ -2,7 +2,7 @@
  "self_funding_full": [
   {
    "month": "Jul-21",
-   "cost": "38077"
+   "cost": "38077.00"
   },
   {
    "month": "Aug-21",
@@ -124,7 +124,7 @@
  "self_funding_semester": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -140,7 +140,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "6333"
+   "cost": "6333.00"
   },
   {
    "month": "Dec-21",
@@ -160,7 +160,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "6333"
+   "cost": "6333.00"
   },
   {
    "month": "May-22",
@@ -176,7 +176,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "6333"
+   "cost": "6333.00"
   },
   {
    "month": "Sep-22",
@@ -196,7 +196,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "6333"
+   "cost": "6333.00"
   },
   {
    "month": "Feb-23",
@@ -216,7 +216,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "6333"
+   "cost": "6333.00"
   },
   {
    "month": "Jul-23",
@@ -246,7 +246,7 @@
  "self_funding_flexi": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -262,99 +262,99 @@
   },
   {
    "month": "Nov-21",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Dec-21",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Jan-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Feb-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Mar-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Apr-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "May-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Jun-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Jul-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Aug-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Sep-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Oct-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Nov-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Dec-22",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Jan-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Feb-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Mar-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Apr-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "May-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Jun-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Jul-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Aug-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Sep-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Oct-23",
-   "cost": "1386"
+   "cost": "1386.00"
   },
   {
    "month": "Nov-23",
@@ -368,7 +368,7 @@
  "ptptnMax": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -384,7 +384,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "2061"
+   "cost": "2061.00"
   },
   {
    "month": "Dec-21",
@@ -404,7 +404,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "2061"
+   "cost": "2061.00"
   },
   {
    "month": "May-22",
@@ -420,7 +420,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "2061"
+   "cost": "2061.00"
   },
   {
    "month": "Sep-22",
@@ -440,7 +440,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "2061"
+   "cost": "2061.00"
   },
   {
    "month": "Feb-23",
@@ -460,7 +460,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "2061"
+   "cost": "2061.00"
   },
   {
    "month": "Jul-23",
@@ -490,7 +490,7 @@
  "ptptn75": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -506,7 +506,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "3609.6"
+   "cost": "3609.60"
   },
   {
    "month": "Dec-21",
@@ -526,7 +526,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "3609.6"
+   "cost": "3609.60"
   },
   {
    "month": "May-22",
@@ -542,7 +542,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "3609.6"
+   "cost": "3609.60"
   },
   {
    "month": "Sep-22",
@@ -562,7 +562,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "3609.6"
+   "cost": "3609.60"
   },
   {
    "month": "Feb-23",
@@ -582,7 +582,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "3609.6"
+   "cost": "3609.60"
   },
   {
    "month": "Jul-23",
@@ -612,7 +612,7 @@
  "ptptn50": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -628,7 +628,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "4517.4"
+   "cost": "4517.40"
   },
   {
    "month": "Dec-21",
@@ -648,7 +648,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "4517.4"
+   "cost": "4517.40"
   },
   {
    "month": "May-22",
@@ -664,7 +664,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "4517.4"
+   "cost": "4517.40"
   },
   {
    "month": "Sep-22",
@@ -684,7 +684,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "4517.4"
+   "cost": "4517.40"
   },
   {
    "month": "Feb-23",
@@ -704,7 +704,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "4517.4"
+   "cost": "4517.40"
   },
   {
    "month": "Jul-23",
@@ -734,7 +734,7 @@
  "flexi_ptptnMax": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -742,19 +742,19 @@
   },
   {
    "month": "Sep-21",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Oct-21",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Nov-21",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Dec-21",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Jan-22",
@@ -762,51 +762,51 @@
   },
   {
    "month": "Feb-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Mar-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Apr-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "May-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Jun-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Jul-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Aug-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Sep-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Oct-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Nov-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Dec-22",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Jan-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Feb-23",
@@ -814,35 +814,35 @@
   },
   {
    "month": "Mar-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Apr-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "May-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Jun-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Jul-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Aug-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Sep-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Oct-23",
-   "cost": "451"
+   "cost": "451.00"
   },
   {
    "month": "Nov-23",
@@ -856,7 +856,7 @@
  "flexi_ptptn75": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -864,19 +864,19 @@
   },
   {
    "month": "Sep-21",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Oct-21",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Nov-21",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Dec-21",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Jan-22",
@@ -884,51 +884,51 @@
   },
   {
    "month": "Feb-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Mar-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Apr-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "May-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Jun-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Jul-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Aug-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Sep-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Oct-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Nov-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Dec-22",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Jan-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Feb-23",
@@ -936,35 +936,35 @@
   },
   {
    "month": "Mar-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Apr-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "May-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Jun-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Jul-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Aug-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Sep-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Oct-23",
-   "cost": "790"
+   "cost": "790.00"
   },
   {
    "month": "Nov-23",
@@ -978,7 +978,7 @@
  "flexi_ptptn50": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -986,19 +986,19 @@
   },
   {
    "month": "Sep-21",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Oct-21",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Nov-21",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Dec-21",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Jan-22",
@@ -1006,51 +1006,51 @@
   },
   {
    "month": "Feb-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Mar-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Apr-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "May-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Jun-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Jul-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Aug-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Sep-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Oct-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Nov-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Dec-22",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Jan-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Feb-23",
@@ -1058,35 +1058,35 @@
   },
   {
    "month": "Mar-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Apr-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "May-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Jun-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Jul-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Aug-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Sep-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Oct-23",
-   "cost": "989"
+   "cost": "989.00"
   },
   {
    "month": "Nov-23",
@@ -1100,7 +1100,7 @@
  "scholarship_full": [
   {
    "month": "Jul-21",
-   "cost": "30857"
+   "cost": "30857.00"
   },
   {
    "month": "Aug-21",
@@ -1222,7 +1222,7 @@
  "scholarship_semester": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -1238,7 +1238,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "4813"
+   "cost": "4734.00"
   },
   {
    "month": "Dec-21",
@@ -1258,7 +1258,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "4813"
+   "cost": "4734.00"
   },
   {
    "month": "May-22",
@@ -1274,7 +1274,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "4813"
+   "cost": "4734.00"
   },
   {
    "month": "Sep-22",
@@ -1294,7 +1294,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "4813"
+   "cost": "4734.00"
   },
   {
    "month": "Feb-23",
@@ -1314,7 +1314,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "4813"
+   "cost": "4734.00"
   },
   {
    "month": "Jul-23",
@@ -1344,7 +1344,7 @@
  "scholarship_flexi": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -1352,107 +1352,107 @@
   },
   {
    "month": "Sep-21",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Oct-21",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Nov-21",
-   "cost": "5069"
+   "cost": "1053.00"
   },
   {
    "month": "Dec-21",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Jan-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Feb-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Mar-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Apr-22",
-   "cost": "5069"
+   "cost": "1053.00"
   },
   {
    "month": "May-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Jun-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Jul-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Aug-22",
-   "cost": "5069"
+   "cost": "1053.00"
   },
   {
    "month": "Sep-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Oct-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Nov-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Dec-22",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Jan-23",
-   "cost": "5069"
+   "cost": "1053.00"
   },
   {
    "month": "Feb-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Mar-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Apr-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "May-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Jun-23",
-   "cost": "5069"
+   "cost": "1053.00"
   },
   {
    "month": "Jul-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Aug-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Sep-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Oct-23",
-   "cost": ""
+   "cost": "1053.00"
   },
   {
    "month": "Nov-23",
@@ -1466,7 +1466,7 @@
  "scholarship_ptptnMax_semester": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -1482,7 +1482,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "541"
+   "cost": "534.00"
   },
   {
    "month": "Dec-21",
@@ -1502,7 +1502,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "541"
+   "cost": "534.00"
   },
   {
    "month": "May-22",
@@ -1518,7 +1518,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "541"
+   "cost": "534.00"
   },
   {
    "month": "Sep-22",
@@ -1538,7 +1538,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "541"
+   "cost": "534.00"
   },
   {
    "month": "Feb-23",
@@ -1558,7 +1558,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "541"
+   "cost": "534.00"
   },
   {
    "month": "Jul-23",
@@ -1588,7 +1588,7 @@
  "scholarship_ptptn75_semester": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -1604,7 +1604,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "2089.6"
+   "cost": "1134.00"
   },
   {
    "month": "Dec-21",
@@ -1624,7 +1624,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "2089.6"
+   "cost": "1134.00"
   },
   {
    "month": "May-22",
@@ -1640,7 +1640,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "2089.6"
+   "cost": "1134.00"
   },
   {
    "month": "Sep-22",
@@ -1660,7 +1660,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "2089.6"
+   "cost": "1134.00"
   },
   {
    "month": "Feb-23",
@@ -1680,7 +1680,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "2089.6"
+   "cost": "1134.00"
   },
   {
    "month": "Jul-23",
@@ -1710,7 +1710,7 @@
  "scholarship_ptptn50_semester": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -1726,7 +1726,7 @@
   },
   {
    "month": "Nov-21",
-   "cost": "2997.4"
+   "cost": "1381.00"
   },
   {
    "month": "Dec-21",
@@ -1746,7 +1746,7 @@
   },
   {
    "month": "Apr-22",
-   "cost": "2997.4"
+   "cost": "1381.00"
   },
   {
    "month": "May-22",
@@ -1762,7 +1762,7 @@
   },
   {
    "month": "Aug-22",
-   "cost": "2997.4"
+   "cost": "1381.00"
   },
   {
    "month": "Sep-22",
@@ -1782,7 +1782,7 @@
   },
   {
    "month": "Jan-23",
-   "cost": "2997.4"
+   "cost": "1381.00"
   },
   {
    "month": "Feb-23",
@@ -1802,7 +1802,7 @@
   },
   {
    "month": "Jun-23",
-   "cost": "2997.4"
+   "cost": "1381.00"
   },
   {
    "month": "Jul-23",
@@ -1832,7 +1832,7 @@
  "scholarship_ptptnMax_flexi": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -1840,107 +1840,107 @@
   },
   {
    "month": "Sep-21",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Oct-21",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Nov-21",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Dec-21",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Jan-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Feb-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Mar-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Apr-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "May-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Jun-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Jul-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Aug-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Sep-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Oct-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Nov-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Dec-22",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Jan-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Feb-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Mar-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Apr-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "May-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Jun-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Jul-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Aug-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Sep-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Oct-23",
-   "cost": "112.7"
+   "cost": "134.10"
   },
   {
    "month": "Nov-23",
@@ -1954,7 +1954,7 @@
  "scholarship_ptptn75_flexi": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -1962,107 +1962,107 @@
   },
   {
    "month": "Sep-21",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Oct-21",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Nov-21",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Dec-21",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Jan-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Feb-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Mar-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Apr-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "May-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Jun-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Jul-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Aug-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Sep-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Oct-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Nov-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Dec-22",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Jan-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Feb-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Mar-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Apr-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "May-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Jun-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Jul-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Aug-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Sep-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Oct-23",
-   "cost": "435.3"
+   "cost": "265.70"
   },
   {
    "month": "Nov-23",
@@ -2076,7 +2076,7 @@
  "scholarship_ptptn50_flexi": [
   {
    "month": "Jul-21",
-   "cost": "8312"
+   "cost": "8312.00"
   },
   {
    "month": "Aug-21",
@@ -2084,107 +2084,107 @@
   },
   {
    "month": "Sep-21",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Oct-21",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Nov-21",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Dec-21",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Jan-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Feb-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Mar-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Apr-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "May-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Jun-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Jul-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Aug-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Sep-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Oct-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Nov-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Dec-22",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Jan-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Feb-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Mar-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Apr-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "May-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Jun-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Jul-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Aug-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Sep-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Oct-23",
-   "cost": "624.5"
+   "cost": "319.40"
   },
   {
    "month": "Nov-23",
