@@ -2,7 +2,7 @@ const csv = require('csv-parser')
 const fs = require('fs')
 const results = []
 
-fs.createReadStream('csv/form.csv')
+fs.createReadStream('csv/mqa_form.csv')
   .pipe(csv())
   .on('data', (data) => results.push(data))
   .on('end', () => {
@@ -17,18 +17,10 @@ fs.createReadStream('csv/form.csv')
         arr.push({ month: key, cost: newItem[key] })
       }
       dataArr[typeValue] = arr
-
-      // if (typeKey) {
-      //   fs.writeFile(
-      //     `csvData/${typeValue}.json`,
-      //     JSON.stringify(newItem, null, '\t'),
-      //     () => {}
-      //   )
-      // }
     })
 
     fs.writeFile(
-      `csvData/csvData.json`,
+      `mqaCsvData/csvData.json`,
       JSON.stringify(dataArr, null, ' '),
       () => {}
     )

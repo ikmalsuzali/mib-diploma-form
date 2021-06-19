@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Diploma in Baking Science & Technology (BST)</h2>
+    <h2>International Diploma in Baking Arts (IDBA)</h2>
     <v-row>
       <v-col
         cols="12"
@@ -61,39 +61,6 @@
             </div>
           </v-card-text>
           <div class="px-5">
-            <v-checkbox v-model="optionsSelected" label="PTPTN" value="ptptn" />
-
-            <div v-if="optionsSelected.includes('ptptn')">
-              <v-card-text class="pa-0">
-                The amount of loan approved is subject to PTPTN. Household
-                income is the main factor to determine how much PTPTN loan you
-                are entitled to. Please select your household income below!
-              </v-card-text>
-              <v-chip-group
-                v-model="incomeLvlSelected"
-                active-class="green accent-4 white--text"
-                column
-              >
-                <v-chip>Income Level 1</v-chip>
-                <v-chip>Income Level 2</v-chip>
-                <v-chip>Income Level 3</v-chip>
-              </v-chip-group>
-              <v-card-text>
-                <div :class="{ 'font-weight-bold': incomeLvlSelected === 0 }">
-                  Income Level 1: (100% of Full Loan) Recipient of BPR
-                </div>
-                <div :class="{ 'font-weight-bold': incomeLvlSelected === 1 }">
-                  Income Level 2: (75% of Full Loan) Income RM4,001 to RM8,000
-                </div>
-                <div :class="{ 'font-weight-bold': incomeLvlSelected === 2 }">
-                  Income Level 3: (50% of Full Loan) Income RM8,001 and Above
-                </div>
-              </v-card-text>
-              <v-card-text>
-                <div class="font-weight-bold">More info on PTPTN Website</div>
-                <a target="_blank" :href="ptptnUrl">{{ ptptnUrl }}</a>
-              </v-card-text>
-            </div>
             <v-checkbox
               v-model="optionsSelected"
               label="Flexi Payment Plan"
@@ -141,7 +108,7 @@
 </template>
 
 <script>
-import csvData from '../mqaCsvData/csvData.json'
+import csvData from '../idbaCsvData/csvData.json'
 
 export default {
   data() {
