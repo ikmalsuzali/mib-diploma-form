@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "node mqaCsvParser.js & node idbaCsvParser.js & nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "node mqaCsvParser.js & node idbaCsvParser.js & nuxt generate"
   },
   "dependencies": {
     "core-js": "^3.9.1",
