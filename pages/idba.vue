@@ -22,6 +22,7 @@
         <h2>International Diploma in Baking Arts (IDBA)</h2>
       </v-col>
     </v-row>
+
     <v-row>
       <v-col
         cols="12"
