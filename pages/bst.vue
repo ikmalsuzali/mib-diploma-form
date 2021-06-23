@@ -1,6 +1,6 @@
 <template>
   <div>
-     <v-row class="bg">
+    <v-row class="bg">
       <v-col
         cols="12"
         xs="12"
@@ -13,15 +13,15 @@
         order-lg="first"
         class="mt-5"
       >
-       <v-img
-        lazy-src="mib-logo.jpg"
-        max-width="100"
-        max-height="72"
-        src="mib-logo.jpg"
-      ></v-img>
-    <h2>Diploma in Baking Science & Technology (BST)</h2>
+        <v-img
+          lazy-src="mib-logo.jpg"
+          max-width="100"
+          max-height="72"
+          src="mib-logo.jpg"
+        ></v-img>
+        <h2>Diploma in Baking Science & Technology (BST)</h2>
       </v-col>
-     </v-row>
+    </v-row>
 
     <v-row>
       <v-col
@@ -142,8 +142,8 @@
               label="Full Payment (5% Discount)"
               value="full"
             />
-            <v-checkbox v-model="optionsSelected" label="EPF" value="epf" />
-            <div v-if="optionsSelected.includes('epf')">
+            <v-checkbox v-model="epfOptionSelected" label="EPF" value="epf" />
+            <div v-if="epfOptionSelected.includes('epf')">
               <v-card-text>
                 <div
                   style="text-decoration: underline; text-decoration-color: red"
@@ -168,6 +168,7 @@ import csvData from '../mqaCsvData/csvData.json'
 export default {
   data() {
     return {
+      epfOptionSelected: [],
       optionsSelected: [],
       incomeLvlSelected: 0,
       csvData: csvData,
@@ -313,7 +314,7 @@ export default {
 </script>
 
 <style scoped>
-  .bg {
-    background-color: white;
-  }
+.bg {
+  background-color: white;
+}
 </style>
