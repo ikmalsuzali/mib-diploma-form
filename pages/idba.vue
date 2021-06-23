@@ -1,6 +1,29 @@
 <template>
   <div>
+         <v-row class="bg">
+      <v-col
+        cols="12"
+        xs="12"
+        sm="12"
+        md="12"
+        lg="6"
+        order="last"
+        order-sm="last"
+        order-md="last"
+        order-lg="first"
+        class="mt-5"
+      >
+       <v-img
+        lazy-src="mib-logo.jpg"
+        max-width="100"
+        max-height="72"
+        src="mib-logo.jpg"
+      ></v-img>
     <h2>International Diploma in Baking Arts (IDBA)</h2>
+      </v-col>
+     </v-row>
+    
+    
     <v-row>
       <v-col
         cols="12"
@@ -256,3 +279,9 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+  .bg {
+    background-color: white;
+  }
+</style>
